@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+    list-style: none;
+    text-decoration: none;
+}
+/* Side scroll color change start */
+::-webkit-scrollbar{
+    width: 6px;
+  
+}
+
+::-webkit-scrollbar-track{
+    background:#1d2842;
+}
+
+::-webkit-scrollbar-thumb{
+    background:palevioletred;
+} 
+:root{
+    --main-color:#ad95d8;
+    --text-color:rgb(15, 16, 17);
+    --bg-color:white;
+    --bg-font:5rem;
+    --h2-font:2.25rem;
+    --p-font:0.9rem;
+}
+
+.service-home{
+    background-image: url('https://preview.colorlib.com/theme/sierra/img/banner/banner-bg.png.webp');
+    height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+
+}
+.ser{
+    margin: 0 60px;
+
+}
+.service-home h2{
+    
+    font-size: var(--bg-font);
+}
+.service-home p{
+    font-size: var(--h2-font);
+    color: #ad95d8;
+}
+
+/* first-service */
+.first-service{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:50px 100px;
+}
+
+ .service-contant h2{
+    margin: 10px 0;
+}
+.first-service p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #ad95d8;
+    line-height: 30px;
+    text-align: center;
+} 
+.service-contant{
+    margin: 30px;
+    text-align: center;
+    padding-top:30px ;
+   
+}
+.service-contant .btns{
+    /* margin-top: 10px; */
+    margin: 60px 50px ;
+    padding: 10px 10px;
+    border-radius: 30px;
+    /* font-weight: 800; */
+    color: #ad95d8;
+}
+
+.service-contant:hover   .btns {
+    background:linear-gradient(orange, tomato);
+    border: 5px solid rgb(224, 77, 54);
+color: white;
+}
+.service-contant:hover{
+    box-shadow: 0px 2px 5px black;
+    border-radius: 20px;
+}
+
+/* loader */
+.loader{
+    display: flex;
+    justify-content: center;
+}
+.load1{
+    position:relative;
+    top: 30px;
+    margin: 30px;
+    height: 200px;
+    width: 200px;
+    border: 8px solid black;
+    border-bottom: 3px solid white;
+    border-radius: 50%;
+    animation: suresh 1s linear infinite;
+}
+.r{
+    /* background-color: red; */
+    position: absolute;
+    top: 70px;
+    left: 60px;
+text-align: center;
+font-size: 50px;
+position: fixed;
+z-index: 1;
+}
+.loader{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.load1::before{
+    content: '';
+    position: absolute;
+    border: 8px solid;
+    bottom: -6px;
+    right: 33px;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    
+}
+
+@keyframes suresh {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+    
+} 
+/* loader end*/
+.foot{
+    background-image: url('https://preview.colorlib.com/theme/sierra/img/service-bg.jpg.webp');
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 20px 0;
+    margin: 60px 0;
+}
+.service-last{
+    width: 510px;
+    margin: 100px;
+
+}
+.service-last h2{
+    font-size: 16px;
+    margin: 20px 0;
+}
+.service-last h1{
+    font-size: 40px;
+    font-weight: 700;
+margin-bottom: 50px;
+}
+.service-last p{
+    color: #ad95d8;
+    font-size: 16px;
+    font-weight: 500px;
+    line-height: 50px;
+}
+
+ul li:nth-child(odd), .bt
+{
+    background: linear-gradient(rgb(113, 217, 231),rgb(10, 77, 116));
+    margin: 30px 0;
+    padding: 20px;
+    color: White;
+}
+ul li span{
+    margin-left: 76px;
+}
