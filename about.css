@@ -250,3 +250,7 @@ background-color: #f0eafd;
 color: #541dbb;
 }
   /* progress */
+
+.navbar ul li a{
+    text-decoration: none;
+}
