@@ -48,7 +48,7 @@ header{
     justify-content: space-between;
     background-color: rgb(221, 153, 221);
     background-blend-mode:screen;
-    background:rgb(124, 122, 216) url(image/banner-bg.png.webp);
+    /* background:rgb(124, 122, 216) url(image/banner-bg.png.webp); */
     background-size: cover;
     z-index: 2;
 }
