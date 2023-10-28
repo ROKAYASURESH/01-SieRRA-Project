@@ -272,6 +272,9 @@ list-style: disc;
     font-size: 20px;
     color: #ad9dcc;
 }
+textarea{
+    margin-left: 20px;
+}
 .fifth-section .contact{
   padding: 20px 100px;
 
@@ -372,6 +375,9 @@ list-style: disc;
       }
       .f-contact{
         width: 100%;
+      }
+      .contact{
+        margin-top: 60px;
       }
    .last{
     background-color: #000;
