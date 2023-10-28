@@ -62,15 +62,15 @@ If you'd like to contribute to the Sierra project, please follow these steps:
 
 5. Create a pull request to the main repository, explaining your changes and their purpose.
 
+## Project Tutorial
 
+https://github.com/ROKAYASURESH/01-SieRRA-Project/assets/127000485/cf8d7aa1-e924-41e7-a6d1-d760baa287b6
 ---
 
 Happy coding! If you have any questions or need assistance, feel free to reach out to us.
 ```
 https://github.com/ROKAYASURESH
-## Project Tutorial
 
-https://github.com/ROKAYASURESH/01-SieRRA-Project/assets/127000485/cf8d7aa1-e924-41e7-a6d1-d760baa287b6
 
 
 
