@@ -7,6 +7,7 @@ Sierra is a front-end project that showcases a responsive and elegant web design
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Project Tutorial](#Project-Tutorial)
 ## Project Overview
 
 Sierra is a simple yet stylish web design project that demonstrates the power of HTML and CSS in creating visually appealing web pages. The project focuses on responsive design, making it suitable for various screen sizes, including mobile devices, tablets, and desktops.
@@ -67,5 +68,10 @@ If you'd like to contribute to the Sierra project, please follow these steps:
 Happy coding! If you have any questions or need assistance, feel free to reach out to us.
 ```
 https://github.com/ROKAYASURESH
+## Project Tutorial
+
+https://github.com/ROKAYASURESH/01-SieRRA-Project/assets/127000485/cf8d7aa1-e924-41e7-a6d1-d760baa287b6
+
+
 
 
