@@ -38,7 +38,7 @@ body{
     background-color: var(--bg-color);
 }
 .first-section{
-    height: 80vh;
+    height: 50vh;
     background-image: url(https://preview.colorlib.com/theme/sierra/img/banner/banner-bg.png.webp);
     background-position:fixed;
     background-repeat: no-repeat;
