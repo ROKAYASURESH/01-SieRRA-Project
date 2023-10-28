@@ -7,8 +7,6 @@ Sierra is a front-end project that showcases a responsive and elegant web design
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview
 
 Sierra is a simple yet stylish web design project that demonstrates the power of HTML and CSS in creating visually appealing web pages. The project focuses on responsive design, making it suitable for various screen sizes, including mobile devices, tablets, and desktops.
@@ -28,13 +26,13 @@ To use the Sierra project, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/sierra.git
+   [git clone https://github.com/yourusername/sierra.git](https://github.com/ROKAYASURESH/01-SieRRA-Project.git)
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd sierra
+   cd 01-SieRRA-Project
    ```
 
 3. Open the `index.html` file in your favorite web browser to see the project in action.
@@ -63,13 +61,11 @@ If you'd like to contribute to the Sierra project, please follow these steps:
 
 5. Create a pull request to the main repository, explaining your changes and their purpose.
 
-## License
-
-This project is licensed under the MIT License. You can find more details in the [LICENSE](LICENSE) file.
 
 ---
 
 Happy coding! If you have any questions or need assistance, feel free to reach out to us.
 ```
+https://github.com/ROKAYASURESH
 
-Replace "yourusername" in the clone command with your actual GitHub username. You can also customize the content and sections as per your project's specific requirements. This README file is a good starting point to provide essential information about your "Sierra" front-end project.
+
