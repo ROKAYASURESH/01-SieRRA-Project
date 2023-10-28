@@ -81,7 +81,23 @@ header{
     background-size:contain;
     width: 100%;
 }
-.home-container{
+.home-img img{
+    /* position: absolute; */
+    height: 600px;
+    top: -700px;
+    animation:  updown 2s ease-in-out  alternate-reverse both;
+    animation-timing-function: inherit;
+  }
+  @keyframes updown {
+    0%{
+      transform: translateY(70px);
+    }
+    100%{
+      transform: translateY(0px);
+    }
+    
+  }
+.home-container{ 
     display: flex;
     justify-content: center;
     align-items: center;
