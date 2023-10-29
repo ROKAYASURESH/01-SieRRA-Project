@@ -154,6 +154,42 @@ width: 200px;
     }
     /* Service send */
 
+    /* portfolio start */
+
+.third1{
+    display: none;
+}
+.third2 .pr{
+font-size: 30px;
+line-height: 50px;
+text-align: justify;
+}
+
+.third2 .img {
+    display: flex;
+    justify-content: center;
+}
+.fourth-container .fourth-1{
+    width: 200px;
+    background-color: rebeccapurple;
+    height: auto;
+}
+.fourth-1{
+    display: none;
+}
+    /* portfolio end */
+
+/* Contact start */
+.fifth-section{
+    display: flex;
+    flex-direction: column;
+}
+textarea{
+    margin-left: 0px;
+    /* width: 200px; */
+}
+/* contact end */
+
 
  
   }
