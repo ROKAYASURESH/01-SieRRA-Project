@@ -98,5 +98,62 @@
     }
     /* About end */
 
+    /* Service start*/
+    .first-service{
+        display: flex;
+      flex-direction: column;
+    margin:20px;
+
+    }
+    .service-contant img{
+        width: 160px;
+        margin: 10px;
+    }
+    .service-contant h2{
+         font-size: 40px;
+         padding: 10px;
+    }
+    .service-contant .par{
+        font-size: 30px;
+    }
+    .service-contant .btns{
+         font-size: 40px;
+    }
+    .loader .load1{
+        display: none;
+    }
+    .foot, .uls{
+        text-align: center;
+    }
+    .service-last{
+        width: 500px;
+        margin: auto;
+   
+    }
+    .service-last img{
+width: 200px;
+    }
+    .service-last h2{
+        font-size: 25px;
+        
+    }
+
+    .service-last h1{
+        font-size: 20px;
+        text-align: justify;
+       
+        
+    }
+
+    .service-last .pr{
+        font-size: 24px;
+        
+    }
+    .uls{
+        font-size: 25px;
+    }
+    /* Service send */
+
+
  
   }
