@@ -63,7 +63,7 @@ If you'd like to contribute to the Sierra project, please follow these steps:
 5. Create a pull request to the main repository, explaining your changes and their purpose.
 
 ## Project Tutorial
-You can watch the video [here](https://github.com/ROKAYASURESH/01-SieRRA-Project/assets/127000485/cf8d7aa1-e924-41e7-a6d1-d760baa287b6
+You can watch the live Demo of this project [Clikc Here](https://github.com/ROKAYASURESH/01-SieRRA-Project/assets/127000485/cf8d7aa1-e924-41e7-a6d1-d760baa287b6
 ).
 
 
