@@ -190,6 +190,25 @@ textarea{
 }
 /* contact end */
 
-
+    /* Footer part start */
+    .footer{
+        padding: 10px 20px;
+    }
+    .f-image{
+        display: none;
+    }
+    .log img{
+        width: 230px;
+    }
+    .log p{
+        font-size: 20px;
+    }
+    .f-contact{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    /* Footer part end */
  
   }
