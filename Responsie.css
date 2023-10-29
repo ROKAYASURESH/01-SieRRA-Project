@@ -1,0 +1,11 @@
+@media screen and (max-width: 940px) {
+    /* Header part start */
+    .navbar li{
+        padding: 20px 7px;
+    }
+    .navbar li a{
+        font-size: 20px;
+    }
+    /* Header part end */
+
+}

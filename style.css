@@ -289,7 +289,7 @@ list-style: disc;
     color: #ad9dcc;
 }
 textarea{
-    margin-left: 20px;
+    /* margin-left: 20px; */
 }
 .fifth-section .contact{
   padding: 20px 100px;

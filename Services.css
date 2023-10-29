@@ -56,7 +56,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin:50px 100px;
+    margin:50px 10px;
 }
 
  .service-contant h2{
@@ -186,3 +186,38 @@ margin-bottom: 50px;
 .uls .lis span{
     margin-left: 76px;
 }
+
+@media screen and (max-width: 768px) {
+    /* Header part start */
+    .navbar li{
+        padding: 20px 7px;
+    }
+    .navbar li a{
+        font-size: 20px;
+    }
+    /* Header part end */
+
+
+
+    /* Footer part start */
+    .footer{
+        padding: 10px 20px;
+    }
+    .f-image{
+        display: none;
+    }
+    .log img{
+        width: 230px;
+    }
+    .log p{
+        font-size: 20px;
+    }
+    .f-contact{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    /* Footer part end */
+ 
+  }
