@@ -8,4 +8,43 @@
     }
     /* Header part end */
 
-}
+    /* index part start */
+    .home-container, .media{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .home-img img{
+        height: 400px;
+      }
+    .h-box{
+        margin-top: 40px;
+    }
+    .feature .image img{ 
+        width: 200px;
+        margin-top: 30px;
+
+    }
+   
+    .m-container{
+        margin: 30px;
+        width: 80%;
+    }
+    .img img{
+        width: 150px;
+    }
+    .h-heading h1{
+        font-size: 50px;
+        color:rebeccapurple;
+    }
+    .h-heading p{
+        line-height: 40px;
+        font-size: 25px;
+    }
+    .h-heading .btn{
+        font-size: 40px;
+    }
+    /* index part end */
+
+  
+ 
+  }
