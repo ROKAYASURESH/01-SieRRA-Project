@@ -65,6 +65,7 @@ If you'd like to contribute to the Sierra project, please follow these steps:
 ## Project Tutorial
 You can watch the live Demo of this project [Clikc Here](https://github.com/ROKAYASURESH/01-SieRRA-Project/assets/127000485/cf8d7aa1-e924-41e7-a6d1-d760baa287b6
 ).
+You can watch the live Responsive Demo of this project [Clikc Here](https://github.com/ROKAYASURESH/01-SieRRA-Project/assets/127000485/264df486-35fd-406a-8afe-02f832158f96).
 
 
 
@@ -73,8 +74,3 @@ You can watch the live Demo of this project [Clikc Here](https://github.com/ROKA
 Happy coding! If you have any questions or need assistance, feel free to reach out to us.
 ```
 https://github.com/ROKAYASURESH
-
-
-
-
-
